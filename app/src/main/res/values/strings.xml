@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Dynamic1</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment1">fragment1</string>
+    <string name="fragment2">fragment2</string>
+    <string name="fragment3">fragment3</string>
+    <string name="first_fragment">First fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="third_fragment">Third Fragment</string>
+    <string name="fr">fragment2</string>
+</resources>
